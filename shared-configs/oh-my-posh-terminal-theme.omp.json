@@ -49,7 +49,7 @@
           "foreground": "p:white",
           "leading_diamond": "\ue0b6",
           "style": "diamond",
-          "template": "{{ .UserName }}@{{ if .SSHSession }} {{ end }}{{ .HostName }}",
+          "template": "{{ .UserName }}@{{ .HostName }}{{ if .SSHSession }}  {{ end }}",
           "type": "session"
         },
         {
@@ -100,5 +100,5 @@
     }
   ],
   "final_space": true,
-  "version": 3
+  "version": 4
 }
