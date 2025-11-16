@@ -6,9 +6,9 @@
     "teal": "#400484",
     "plum": "#ad099a",
     "blush": "#791d65",
-    "salmon": "#fca17d",
+    "dark_cyan": "#0b3c8a",
     "sky": "#a586d8",
-    "teal_blue": "#0b3c8a"
+    "teal_blue": "#c03486"
   },
   "blocks": [
     {
@@ -64,7 +64,7 @@
           "type": "path"
         },
         {
-          "background": "p:salmon",
+          "background": "p:dark_cyan",
           "foreground": "p:white",
           "powerline_symbol": "\ue0b0",
           "properties": {
