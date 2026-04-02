@@ -7,5 +7,5 @@ My favorite programming language is rust 🦀
 My public keys are available here:
 https://github.com/silvenlily/silvenlily/tree/main/keys
 
-In my timezone it is about:  
+In my timezone it is:  
 ![My current time](https://timesvg.silverlily.net/timesvg/0/VVMvTW91bnRhaW4.svg)
